@@ -1,6 +1,6 @@
 source :rubygems
 
-ruby '3.3.0'
+ruby '3.3.3'
 
 gem 'sinatra', '2.0.7'
 gem 'sinatra-reloader', '1.0'
